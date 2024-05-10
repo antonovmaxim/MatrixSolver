@@ -1,6 +1,5 @@
 from manim import *
 from fractions import Fraction
-import numpy as np
 
 class GaussianEliminationScene(Scene):
     def construct(self):
